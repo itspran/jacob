@@ -1,0 +1,14 @@
+#josh {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+
+#josh2 {
+  display: flex;
+  justify-content: end;
+}
+
+.blue {
+  color: blue;
+}
